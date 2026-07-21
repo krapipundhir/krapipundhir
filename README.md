@@ -1,4 +1,7 @@
 ## Hi there 👋
+# krapipundhir
+This is my first  Git Repository.
+Author - Krapi Pundhir
 
 <!--
 **krapipundhir/krapipundhir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
