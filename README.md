@@ -23,21 +23,12 @@ This is my first  Git Repository
 
 ---
 
-### 📊 GitHub Stats
-![Krapi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=krapipundhir&show_icons=true&theme=dark)
-
----
-
 ### 📫 Connect with me:
 - *LinkedIn:* [Krapi Pundhir](https://www.linkedin.com/in/krapi-pundhir/)
 - *Email:* [krapipundhir6@gmail.com](mailto:krapipundhir6@gmail.com)
 
 ---
 
-### 📫 Connect with me:
-- **LinkedIn:** [Krapi Pundhir](https://www.linkedin.com/in/krapi-pundhir/)
-- **Email:**  [krapipundhir6@gmail.com](mailto:krapipundhir6@gmail.com)
-- **GitHub:** [krapipundhir](https://github.com/krapipundhir)
-**krapipundhir/krapipundhir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 
