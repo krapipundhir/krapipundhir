@@ -24,7 +24,7 @@ Welcome to my GitHub profile! Here I share my projects, coding journey, and prog
 ---
 
 
-## 📫📤 Let's Connect
+## 📤 Let's Connect
 
 <br>
 
