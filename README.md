@@ -5,10 +5,10 @@
 
 </div>
 
-<h3 align="center">💡Building Strong Foundations in Java, DSA & Software Development💡</h3>
+<h3 align="center">💡 Passionate about Java, Data Structures & Algorithms, and Software Development.</h3>
 
 <p align="center">
-✨<i>Turning Logic into Code • Java • DSA • Problem Solving</i>✨
+✨ <kbd>Turning Logic into Code • Java • DSA • Problem Solving/kbd>
 </p>
 
 <br>
@@ -24,34 +24,11 @@ Welcome to my GitHub profile! Here I share my projects, coding journey, and prog
 ---
 
 
-## 📤 Let's Connect
-
-<br>
-
-<p align="left">
-
-<a href="https://www.linkedin.com/in/krapi-pundhir/">
-<img src="https://img.shields.io/badge/LinkedIn-Krapi_Pundhir-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:krapipundhir6@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/krapi_pundhir/">
-<img src="https://img.shields.io/badge/LeetCode-krapi__pundhir-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
-</a>
-
-<a href="https://www.hackerrank.com/profile/krapipundhir6">
-<img src="https://img.shields.io/badge/HackerRank-Krapi_Pundhir-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
-</a>
-
-</p>
 
 ---
 
 ## 🏆 Achievements & Badges
-<br>
+
 
 <p align="left">
 
@@ -146,13 +123,39 @@ Welcome to my GitHub profile! Here I share my projects, coding journey, and prog
 ✔ Building Consistent GitHub Activity
 
 ---
+## 📤 Let's Connect
 
+<br>
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/krapi-pundhir/">
+<img src="https://img.shields.io/badge/LinkedIn-Krapi_Pundhir-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:krapipundhir6@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/krapi_pundhir/">
+<img src="https://img.shields.io/badge/LeetCode-krapi__pundhir-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/krapipundhir6">
+<img src="https://img.shields.io/badge/HackerRank-Krapi_Pundhir-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white"/>
+</a>
+
+</p>
+
+----
 
 ## 🐍 Contribution Snake
 
 <p align="center">
 <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg"/>
 </p>
+
+
 
 ---
 
