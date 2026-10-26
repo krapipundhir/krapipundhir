@@ -8,7 +8,7 @@
 <h3 align="center">💡 Passionate about Java, Data Structures & Algorithms, and Software Development.</h3>
 
 <p align="center">
-✨ <kbd>Turning Logic into Code • Java • DSA • Problem Solving/kbd>
+✨Turning Logic into Code • Java • DSA • Problem Solving✨
 </p>
 
 <br>
@@ -25,7 +25,7 @@ Welcome to my GitHub profile! Here I share my projects, coding journey, and prog
 
 
 
----
+
 
 ## 🏆 Achievements & Badges
 
@@ -146,6 +146,7 @@ Welcome to my GitHub profile! Here I share my projects, coding journey, and prog
 </a>
 
 </p>
+
 
 ----
 
