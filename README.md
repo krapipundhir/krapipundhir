@@ -24,7 +24,7 @@ Welcome to my GitHub profile! Here I share my projects, coding journey, and prog
 ---
 
 
-## 🌐 Let's Connect
+## 📫📤 Let's Connect
 
 <br>
 
@@ -103,7 +103,7 @@ Welcome to my GitHub profile! Here I share my projects, coding journey, and prog
 <p align="left">
 <img src="https://skillicons.dev/icons?i=java,git,github,vscode,idea" />
 </p>
-<br>
+
 
 ---
 
