@@ -5,7 +5,9 @@
 
 </div>
 
-<h3 align="center">💡Passionate about Java, Data Structures & Algorithms, and Software Development.</h3>
+<h3 align="center">💡 Passionate about Java, Data Structures & Algorithms, and Software Development
+
+</h3>
 
 <p align="center">
 ✨Turning Logic into Code • Java • DSA • Problem Solving
