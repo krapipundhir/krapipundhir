@@ -30,7 +30,7 @@ Welcome to my GitHub profile! Here I share my projects, coding journey, and prog
 
 
 ## 🏆 Achievements & Badges
-
+<br>
 
 <p align="left">
 
@@ -45,7 +45,7 @@ Welcome to my GitHub profile! Here I share my projects, coding journey, and prog
 </p>
 
 
-- HackerRank Java (5⭐ Gold Badge)  
+
 - Solved Strings, BigInteger, Core Principles problems  
 
 
