@@ -84,12 +84,13 @@ Welcome to my GitHub profile! Here I share my projects, coding journey, and prog
 
 ---
 
-<p align ="center"><b>💻 Tech Stack & Tools </b></p>
+<h2 align ="center"><strong>💻 Tech Stack & Tools </strong></h2>
+
 <br>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,git,github,vscode,idea" />
+<img src="https://skillicons.dev/icons?i=java,git,github,vscode,idea", height = "42/>
 </p>
-
+<br>
 
 ---
 
