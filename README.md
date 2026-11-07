@@ -88,8 +88,10 @@ Welcome to my GitHub profile! Here I share my projects, coding journey, and prog
 
 <br>
 <p align="center">
-<img src="https://skillicons.dev/icons?i=java,git,github,vscode,idea", height = "42/>
+  <img src="https://skillicons.dev/icons?i=java,git,github,vscode,idea" height="42" />
 </p>
+
+
 
 
 ---
