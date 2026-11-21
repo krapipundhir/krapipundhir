@@ -102,7 +102,7 @@ Welcome to my GitHub profile! Here I share my projects, coding journey, and prog
 
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=krapipundhir&show_icons=true&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=krapipundhir&show_icons=true&theme=chartreuse-dark" />
 </p>
 
 <p align="center">
@@ -110,7 +110,7 @@ Welcome to my GitHub profile! Here I share my projects, coding journey, and prog
 </p>
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krapipundhir&layout=compact&theme=tokyonight" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=krapipundhir&layout=compact&theme=chartreuse-dark" />
 
   
 </p>
